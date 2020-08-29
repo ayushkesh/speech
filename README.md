@@ -3,10 +3,10 @@
 
 ![Speech voice Recognition Header](https://github.com/ayushkesh/speech/blob/master/a.jpg)
 
-1. [ Overview ](#overview)
-2. [Data Creation ](#Data Creation)
-3. [Description ](#Description)
-4. [Installation and Run ](#Installation and Run)
+1. [ Overview ](#demo)
+2. [ Data Creation ](#data)
+3. [Description](#description)
+4. [ Installation ](#install)
 
 
 <a name="overview"></a>
