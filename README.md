@@ -6,7 +6,7 @@
 1. [ Overview ](#demo)
 2. [ Data Creation ](#data)
 3. [Description](#description)
-4. [ Installation ](#install)
+4. [ Installation and Run ](#install)
 
 
 <a name="overview"></a>
