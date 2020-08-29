@@ -4,9 +4,9 @@
 ![Speech voice Recognition Header](https://github.com/ayushkesh/speech/blob/master/a.jpg)
 
 1. [ Overview ](#demo)
-2. [ Data Creation ](#datacreation)
+2. [ Data  ](#data )
 3. [Description](#description)
-4. [ Installation and Run ](#InstallationandRun)
+4. [ Installation and Run ](#Run)
 
 
 <a name="overview"></a>
@@ -17,7 +17,7 @@ a cab on your behalf, to automobiles, refrigerators, and washing machines that f
 is the component of the system that makes it all possible. in similar way Speech voice recognition model is based on
 concepts of Convolution, LSTM and Attention and recognise pretrained voice with accuracy of 97%.
 
-### Data Creation
+### Data
 1. Set 16KHz as sampling rate
 2. Record 80 utterances of each command.
 3. Save samples of each command in different folders
@@ -48,7 +48,7 @@ vector.
 Layer with SoftMax Activation.
 - The model is successfully built and has achieved the highest accuracy of __97.02%__
 
-### Installation and Run
+### Run
 The Code is written using  __Google Colab__
 1. Open ColabNotebook.ipynb and change Runtime to GPU
 2.  Upload Data/Ayush_17 to Colab.
