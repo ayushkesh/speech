@@ -4,9 +4,9 @@
 ![Speech voice Recognition Header](https://github.com/ayushkesh/speech/blob/master/a.jpg)
 
 1. [ Overview ](#demo)
-2. [ Data Creation ](#data)
+2. [ Data Creation ](#datacreation)
 3. [Description](#description)
-4. [ Installation and Run ](#install)
+4. [ Installation and Run ](#InstallationandRun)
 
 
 <a name="overview"></a>
