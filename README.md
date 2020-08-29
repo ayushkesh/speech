@@ -4,9 +4,9 @@
 ![Speech voice Recognition Header](https://github.com/ayushkesh/speech/blob/master/a.jpg)
 
 1. [ Overview ](#overview)
-2. [Description ](#Description)
+2. [Data Creation ](#Data Creation)
 3. [Description ](#Description)
-4. [Description ](#Description)
+4. [Installation and Run ](#Installation and Run)
 
 
 <a name="overview"></a>
@@ -17,7 +17,7 @@ a cab on your behalf, to automobiles, refrigerators, and washing machines that f
 is the component of the system that makes it all possible. in similar way Speech voice recognition model is based on
 concepts of Convolution, LSTM and Attention and recognise pretrained voice with accuracy of 97%.
 
-#### Data Creation
+### Data Creation
 1. Set 16KHz as sampling rate
 2. Record 80 utterances of each command.
 3. Save samples of each command in different folders
