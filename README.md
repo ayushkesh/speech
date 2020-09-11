@@ -7,6 +7,7 @@
 2. [ Data  ](#data )
 3. [Description](#description)
 4. [ Installation and Run ](#Run)
+5. [Test ](#Test)
 
 
 <a name="overview"></a>
@@ -54,3 +55,8 @@ The Code is written using  __Google Colab__
 2.  Upload Data/Ayush_17 to Colab.
 4.  Change data_dir in all cells to point to Ayush_17
 5.  Run the cells in the same order in Notebook.
+
+### Test 
+1. Locate the folder where you save your model.h5 file.
+2. Start speaking when you see mike in the bottom right pane of the task bar or see red blinking dot in the title bar.
+3. If still facing some error try to set the mike recorder time in the previous record function up to 3 sec.
